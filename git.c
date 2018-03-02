@@ -1,2 +1,2 @@
-git is amazing!
+git is an amazing tool!
 
