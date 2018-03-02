@@ -1,2 +1,2 @@
-Git is amazing!
+Git is an amazing tool!
 
